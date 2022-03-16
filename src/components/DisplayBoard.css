@@ -1,0 +1,35 @@
+.display-board-container{
+   display: flex;
+   flex-direction: column;
+   justify-content:space-between;
+}
+.creator{
+   margin-top:40px;
+   margin-left: 80px;
+   color:white;
+   font-weight: bold;
+}
+.weather-infor-container{
+    margin-bottom:180px;
+    margin-left:150px;
+    display: flex;
+    align-items: center;
+    color:white;
+}
+.temperature{
+    font-size:100px;
+    color:white;
+    margin-right:20px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.place{
+    font-size: 50px;
+    font-weight: 500;
+}
+.info-wrapper{
+    margin-right:30px;
+}
+.cloud{
+
+}
