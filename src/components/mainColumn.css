@@ -30,6 +30,9 @@ input[type="text"]
     border-bottom: 1px solid rgb(255, 252, 252);
     color:#d4d1d1;
 }
+input[type="submit"]{
+    display: none;
+}
 ::placeholder{
     color:#d4d1d1;
 }
