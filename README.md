@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# WeatherToday
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web application that show information of cities around the world ( Using the Api of OpenWeather and IP geolocation.)
 
 ## Available Scripts
 
