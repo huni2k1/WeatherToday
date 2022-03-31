@@ -1,6 +1,6 @@
 # WeatherToday
 
-A web application that show information of cities around the world ( Using the Api of OpenWeather and IP geolocation.)
+A React web application that show information of cities around the world ( Using the Api of OpenWeather and IP geolocation.)
 
 Preview at: https://app.netlify.com/sites/gracious-dubinsky-408936/overview
 
